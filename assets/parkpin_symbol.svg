@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="232 150 560 796">
+<defs>
+  <linearGradient id="ppMint" x1="0" y1="0" x2="0" y2="1">
+    <stop offset="0" stop-color="#73DCC0"/>
+    <stop offset="1" stop-color="#42C6A5"/>
+  </linearGradient>
+</defs>
+  <ellipse cx="512" cy="912" rx="132" ry="24" fill="#42C6A5" opacity="0.22"/>
+  <path fill="url(#ppMint)" d="M512 884 C468 824 252 644 252 420 A260 260 0 0 1 772 420 C772 644 556 824 512 884 Z"/>
+  <circle cx="512" cy="420" r="172" fill="#101827"/>
+  
+    <path fill="#FFFFFF" d="M436 430 L461 366 Q467 352 484 352 L540 352 Q557 352 563 366 L588 430 Z"/>
+    <rect fill="#FFFFFF" x="402" y="416" width="220" height="88" rx="30"/>
+    <rect fill="#FFFFFF" x="418" y="488" width="42" height="40" rx="13"/>
+    <rect fill="#FFFFFF" x="564" y="488" width="42" height="40" rx="13"/>
+    <path fill="#101827" d="M462 420 L478 381 Q481 374 489 374 L535 374 Q543 374 546 381 L562 420 Z"/>
+    <circle fill="#101827" cx="441" cy="459" r="15"/>
+    <circle fill="#101827" cx="583" cy="459" r="15"/>
+    <rect fill="#101827" x="486" y="468" width="52" height="11" rx="5.5"/>
+    
+</svg>
